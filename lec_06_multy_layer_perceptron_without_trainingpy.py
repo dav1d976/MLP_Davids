@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as npsedgarzgryezeydzth
 import logging
 import matplotlib.pyplot as plt
 from sklearn.datasets import load_iris
